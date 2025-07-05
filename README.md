@@ -2,4 +2,4 @@
 
 # This is a Heading
 **Bold text**
-![Image](github.ipg)
+![Image](github/github.ipg)
